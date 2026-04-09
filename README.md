@@ -16,6 +16,40 @@
 
 ---
 
+## Tech Stack
+
+**Programming Language:** Python  
+- **Machine Learning / AI:** PyTorch, Hugging Face Transformers, Scikit-learn  
+- **Natural Language Processing:** GPT-2, TF-IDF, Cosine Similarity  
+- **Big Data / Data Processing:** Pandas, NumPy, PySpark  
+- **Data Storage:** CSV datasets (sample_queries.csv), optional models/ folder for saved models  
+- **Deployment / MLOps:** Docker (optional), AWS SageMaker (optional), MLflow (optional)  
+- **Workflow / Scripts:** Modular Python scripts for analysis, chatbot, recommendation, and integration
+
+---
+
+## Highlights
+
+- End-to-end AI chatbot for financial guidance  
+- LLM-powered responses combined with recommendation system  
+- Modular Python scripts for each project phase (Day 2 → Day 5)  
+- Dataset-based testing and demonstration  
+- Easy to extend for larger datasets or more advanced LLMs  
+- Simple to run locally with Python scripts and minimal setup 
+
+---
+
+## Future Enhancements
+
+- Add a Streamlit web interface for live user interaction  
+- Integrate real-time financial data feeds for dynamic insights  
+- Improve LLM recommendation accuracy with fine-tuning  
+- Add user authentication and personalized dashboards  
+- Expand dataset to include more financial queries and scenarios  
+- Integrate advanced analytics for portfolio performance tracking  
+
+---
+
 ## Project Structure
 
 ```text
@@ -34,14 +68,7 @@ ai-financial-chatbot/
 ├─ .gitignore
 └─ README.md
 
-`---`
 
-**## Setup Instructions**
-
-1. Clone the repository:
-```bash
-git clone <YOUR_REPO_URL>
-cd ai-financial-chatbot
 
 
 
