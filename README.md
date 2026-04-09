@@ -34,5 +34,14 @@ ai-financial-chatbot/
 ├─ .gitignore
 └─ README.md
 
----
+----
+
+## Setup Instructions
+1. Clone the repository:
+```bash
+git clone <YOUR_REPO_URL>
+cd ai-financial-chatbot
+
+
+
 
