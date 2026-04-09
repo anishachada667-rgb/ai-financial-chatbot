@@ -18,7 +18,7 @@
 
 ## Tech Stack
 
-**Programming Language:** Python  
+- **Programming Language:** Python  
 - **Machine Learning / AI:** PyTorch, Hugging Face Transformers, Scikit-learn  
 - **Natural Language Processing:** GPT-2, TF-IDF, Cosine Similarity  
 - **Big Data / Data Processing:** Pandas, NumPy, PySpark  
