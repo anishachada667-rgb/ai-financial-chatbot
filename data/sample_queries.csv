@@ -1,4 +1,6 @@
 user_id,query
-1,How to file taxes?
-2,Best investment plans?
-3,Check my account balance
+101,What is my account balance?
+102,Show me my recent transactions
+103,Recommend investment options
+104,What are the tax deductions available?
+105,How can I save on taxes this year?
