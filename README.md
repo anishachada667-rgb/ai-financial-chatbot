@@ -2,7 +2,7 @@
 
 ---
 
-## Overview
+## 📌 Overview
 AI Financial Chatbot is an end-to-end AI/ML project that provides financial guidance, investment insights, and personalized query recommendations. The system allows users to input natural language queries related to finance (taxes, investments, accounts) and receive intelligent responses using a GPT-2 based chatbot along with a recommendation engine.
 
 This project demonstrates a complete pipeline including data analysis, NLP-based chatbot development, recommendation system, and final integration — all executed locally using Python scripts.
@@ -20,12 +20,12 @@ This project demonstrates a complete pipeline including data analysis, NLP-based
 ---
 
 ## 🛠️ Tech Stack
-- **Programming Language:** Python  
-- **Machine Learning / NLP:** PyTorch, Hugging Face Transformers (GPT-2)  
-- **Recommendation System:** Scikit-learn (TF-IDF, Cosine Similarity)  
-- **Data Processing:** Pandas, NumPy  
-- **Dataset:** CSV (sample_queries.csv)  
-- **Environment:** Local Machine (VS Code, Git Bash)  
+- Programming Language: Python  
+- Machine Learning / NLP: PyTorch, Hugging Face Transformers (GPT-2)  
+- Recommendation System: Scikit-learn (TF-IDF, Cosine Similarity)  
+- Data Processing: Pandas, NumPy  
+- Dataset: CSV (sample_queries.csv)  
+- Environment: Local Machine (VS Code, Git Bash)
 
 ---
 
@@ -38,13 +38,13 @@ User Query
 ---
 
 ## 🛐 Current Status
-The project is completed as a functional MVP with dataset analysis, a GPT-2 based chatbot, a TF-IDF recommendation system, and end-to-end integration. All components run locally using Python scripts and demonstrate a complete NLP-based pipeline.
+The project is completed as a functional MVP with dataset analysis, GPT-2 chatbot, TF-IDF recommendation system, and end-to-end integration. All components run locally using Python scripts and demonstrate a complete NLP pipeline.
 
 ---
 
 ## 📊 Highlights
 - End-to-end NLP pipeline combining chatbot and recommendation system  
-- GPT-2 based response generation with similarity-based query suggestions  
+- GPT-2 based response generation with similarity-based suggestions  
 - Modular script-based architecture (Day-wise implementation)  
 - Lightweight and easy to execute on a local environment  
 - Demonstrates practical application of NLP and machine learning concepts  
@@ -61,31 +61,16 @@ The project is completed as a functional MVP with dataset analysis, a GPT-2 base
 ---
 
 ## 👨‍💼 Author
-**Anisha Reddy Chada**  
+Anisha Reddy Chada  
 Email: anishachada667@gmail.com  
 
-## 📂 Project Structure
-
-ai-financial-chatbot/
-│
-├─ scripts/
-│   ├─ data_analysis.py
-│   ├─ llm_chatbot.py
-│   ├─ recommendation.py
-│   └─ chatbot_integration.py
-│
-├─ data/
-│   └─ sample_queries.csv
-│
-├─ models/
-├─ .gitignore
-└─ README.md
+---
 
 ## 🛠️ Setup Instructions
 
 ```bash
 # Clone the repository
-git clone https://github.com/anishachada667-rgb/ai-financial-chatbot
+git clone <YOUR_REPO_URL>
 cd ai-financial-chatbot
 
 # Install dependencies
@@ -99,5 +84,4 @@ python scripts/data_analysis.py
 python scripts/llm_chatbot.py
 python scripts/recommendation.py
 python scripts/chatbot_integration.py
-
 
