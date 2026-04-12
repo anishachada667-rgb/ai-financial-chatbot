@@ -70,7 +70,7 @@ Email: anishachada667@gmail.com
 
 ```bash
 # Clone the repository
-git clone <YOUR_REPO_URL>
+git clone https://github.com/anishachada667-rgb/ai-financial-chatbot
 cd ai-financial-chatbot
 
 # Install dependencies
